@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/blvckonej.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/blvckonej.github.io/static/js/main.b938856a.js",
-    "static/js/787.28cb0dcd.chunk.js": "/blvckonej.github.io/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/blvckonej.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/blvckonej.github.io/index.html",
-    "main.073c9b0a.css.map": "/blvckonej.github.io/static/css/main.073c9b0a.css.map",
-    "main.b938856a.js.map": "/blvckonej.github.io/static/js/main.b938856a.js.map",
-    "787.28cb0dcd.chunk.js.map": "/blvckonej.github.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/rproject/static/css/main.073c9b0a.css",
+    "main.js": "/rproject/static/js/main.6eb6a680.js",
+    "static/js/787.28cb0dcd.chunk.js": "/rproject/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/rproject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rproject/index.html",
+    "main.073c9b0a.css.map": "/rproject/static/css/main.073c9b0a.css.map",
+    "main.6eb6a680.js.map": "/rproject/static/js/main.6eb6a680.js.map",
+    "787.28cb0dcd.chunk.js.map": "/rproject/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b938856a.js"
+    "static/js/main.6eb6a680.js"
   ]
 }
